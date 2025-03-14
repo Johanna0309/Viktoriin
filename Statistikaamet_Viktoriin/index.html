@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Viktoriin</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="quiz-container">
+    <h1>Viktoriin</h1>
+    <div id="question-container">
+      <p id="question"></p>
+      <ul id="answers">
+      </ul>
+    </div>
+    <div id="feedback"></div>
+    <button id="next-btn" class="btn" style="display: none;">Järgmine küsimus</button>
+    <div id="result-container" style="display: none;"> 
+      <h2>Tulemused:</h2>
+      <table id="result-table">
+        <thead>
+          <tr>
+            <th>Küsimus</th>
+            <th>Teie vastus</th>
+            <th>Tulemus</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <h3 id="final-score"></h3>
+      <div id="personalized-message"></div> 
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
