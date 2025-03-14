@@ -1,5 +1,5 @@
 # Viktoriin
-## Loo interaktiivne viktoriinirakendus, mis kontrollib kasutaja teadmisi valikvastustega küsimusi esitades. Rakendus peaks kuvama küsimusi ükshaaval ja andma tagasisidet kasutaja vastuste kohta. Viktoriini lõpus näidake tabeli kujul vastajale tema tulemust (lõppskoori).     
+### Loo interaktiivne viktoriinirakendus, mis kontrollib kasutaja teadmisi valikvastustega küsimusi esitades. Rakendus peaks kuvama küsimusi ükshaaval ja andma tagasisidet kasutaja vastuste kohta. Viktoriini lõpus näidake tabeli kujul vastajale tema tulemust (lõppskoori).     
 
 Nõuded:
  * Viktoriin peab koosnema vähemalt 3 küsimusest.
